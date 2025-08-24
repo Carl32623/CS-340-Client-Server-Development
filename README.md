@@ -41,10 +41,10 @@ Key features include:
 
 ## Functionality
 The original state of the dashboard. The filter options users to easily sort through records by breed, age, initial condition, or outcome type.
-![Filter Screenshot](ScreenShots/Screenshot 1.png)
+![Datatable Screenshot](ScreenShots/Screenshot%201.png)
 
 ---
 
 Users can view filtered animal records in dynamic tables.
-![Filter Screenshot](ScreenShots/Screenshot 4.png)
+![Graph & Map Screenshot](ScreenShots/Screenshot%204.png)
   
