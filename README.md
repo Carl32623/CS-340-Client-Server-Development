@@ -51,4 +51,4 @@ Users can view filtered animal records in dynamic tables.
 ---
 
 ##Demo Video
-[Watch a short screencast](ScreenShots/C_LaLonde_ProjectTwo_Screencast.mpr)
+<vidoe src="ScreenShots/C_LaLonde_ProjectTwo_Screencast.mp4" controls width="720"></video>
