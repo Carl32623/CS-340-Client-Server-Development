@@ -47,4 +47,8 @@ The original state of the dashboard. The filter options users to easily sort thr
 
 Users can view filtered animal records in dynamic tables.
 ![Graph & Map Screenshot](ScreenShots/Screenshot%204.png)
-  
+
+---
+
+##Demo Video
+[Watch a short screencast](ScreenShots/C_LaLonde_ProjectTwo_Screencast.mpr)
