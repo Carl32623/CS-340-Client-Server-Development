@@ -37,4 +37,14 @@ Key features include:
   - Open Animal_Rescue_Dashboard.ipynb file and run all cells.  Jupyter will start the app and output a URL.
   - Click the URL to open the dashboard.
 
+---
+
+## Functionality
+The original state of the dashboard. The filter options users to easily sort through records by breed, age, initial condition, or outcome type.
+![Filter Screenshot](ScreenShots/Screenshot 1.png)
+
+---
+
+Users can view filtered animal records in dynamic tables.
+![Filter Screenshot](ScreenShots/Screenshot 4.png)
   
